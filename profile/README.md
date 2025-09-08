@@ -7,4 +7,4 @@
 
 &nbsp;
 
-[![Discord](https://img.shields.io/discord/1127312893214470234?color=f6af16&label=AmaiFuku%20Discord&style=for-the-badge)](https://discord.gg/ajYhutH43T)
+[![Discord](https://img.shields.io/discord/1393339411243991110?color=f6af16&label=AmaiFuku%20Discord&style=for-the-badge)](https://discord.gg/ajYhutH43T)
